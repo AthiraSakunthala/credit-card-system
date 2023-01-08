@@ -22,38 +22,3 @@ public class CreditCard {
     private Double balance=0.00;
 
 }
-//  {
-//        "id": 1,
-//        "name": "kdnjkgnjfkjnds",
-//        "number": "324345336547565",
-//        "limit": 100034000,
-//        "balance": 0.0
-//    },
-//    {
-//        "id": 4,
-//        "name": "kdnjkgnjfkjnds",
-//        "number": "32434533654756526",
-//        "limit": 100034000,
-//        "balance": 0.0
-//    },
-//    {
-//        "id": 6,
-//        "name": "kdnjkgnjfkjnds",
-//        "number": "3243453365475652626",
-//        "limit": 100034000,
-//        "balance": 0.0
-//    },
-//    {
-//        "id": 8,
-//        "name": "kdnjkgnjfkjnds",
-//        "number": "3243453365475652642",
-//        "limit": 100034000,
-//        "balance": 0.0
-//    },
-//    {
-//        "id": 14,
-//        "name": "kdnjkgnjfkjnds",
-//        "number": "4345336547565261",
-//        "limit": 100034000,
-//        "balance": 0.0
-//    }
